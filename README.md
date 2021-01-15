@@ -134,12 +134,12 @@ The best results were shown by the ConvLSTM model.The model showed a low bias an
 Model Accuracy and Model Loss
 <p align="center">
     
-    <img src="Images/Model_accuracy_loss.png" alt="Logo" width="480" height="480">
+<img src="Images/Model_accuracy_loss.png" alt="Logo" width="480" height="480">
 
 Activities Classififcation Matrix
 <p align="center">
      
-      <img src="Images/classification_matrix.png" alt="Logo" width="480" height="320">
+<img src="Images/classification_matrix.png" alt="Logo" width="480" height="320">
 
 
 <!-- CONTRIBUTING -->
