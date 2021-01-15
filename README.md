@@ -16,7 +16,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
