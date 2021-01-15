@@ -131,13 +131,14 @@ The  Data was presented as 4 frames each of 20 window size in the 3 acceleromete
 ## Results
 
 The best results were shown by the ConvLSTM model.The model showed a low bias and low varaince tendency.The results are as follows-
+Model Accuracy and Model Loss
 <p align="center">
-    Model Accuracy and Model Loss
+    
     <img src="Images/Model_accuracy_loss.png" alt="Logo" width="480" height="480">
 
-
+Activities Classififcation Matrix
 <p align="center">
-      Activities Classififcation Matrix
+     
       <img src="Images/classification_matrix.png" alt="Logo" width="480" height="320">
 
 
