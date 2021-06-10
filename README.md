@@ -94,7 +94,7 @@ I would recommend the user to have a base understanding of the following before 
 **Dataset**-[Acti-Tracker Dataset(WISDM LABS)](https://www.cis.fordham.edu/wisdm/dataset.php)
 
 **Frame Preparation**-
-
+* The below preprocessing was done on the data on all the x,y and z axes.
 * Frequency = 20mHz (dataset specific)
 * Frame size = 4*frequency
 * Hop Size = 2*frequency (50% overlap)
